@@ -3,7 +3,7 @@
 This Assembly program is a small project of mine meant to further get into Assembly programming and a tad into the DOSBox platform- an x86 MS-DOS emulator.
 Author: Noam Cohen
 
-The game itself isn't too complicated- you have the main menu/welcome screen, the help screen, the game screen, and finally the game over screen. Regarding the game itself- all you need to do is move a BMP photo of a plane over a BMP photo of a plane for 10 times. After that you get the game over screen, that leads you to the main menu once again.
+The game itself isn't too complicated- you have the main menu/welcome screen, the help screen, the game screen, and finally the game over screen. Regarding the game itself- all you need to do is catch a BMP photo of a cloud with your BMP photo plane using the keyboard arrows for 10 times. After that you get the game over screen, that leads you to the main menu once again.
 This project was created in order to learn BMP images printing, screen creations, keyboard input responses, and simple algorithms in Assembly for the game itself.
 
 Hopefully the source code provides a good point of reference in the future for someone or an inspiration to something great!
