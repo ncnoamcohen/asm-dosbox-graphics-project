@@ -1,6 +1,6 @@
 ## Plane Simulator 1.0 - An Assembly DOSBox Graphics Project
 
-This Assembly program is a small project of mine meant to further get into Assembly programming and a tad into the DOSBox platform- an x86 MS-DOS emulator.
+This Assembly program is a small project of mine meant to further get into Assembly programming and a tad into the DOSBox platform- an x86 MS-DOS emulator. Originally written in 2021.
 Author: Noam Cohen
 
 The project is a game. The game itself isn't too complicated- you have the main menu/welcome screen, the help screen, the game screen, and finally the game over screen. Regarding the game itself- all you need to do is catch a BMP photo of a cloud with your BMP photo plane using the keyboard arrows for 10 times. After that you get the game over screen, that leads you to the main menu once again.
