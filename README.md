@@ -1,9 +1,9 @@
-## Plane Simulator 1.0 - An Assembly DOSBox Project
+## Plane Simulator 1.0 - An Assembly DOSBox Graphics Project
 
 This Assembly program is a small project of mine meant to further get into Assembly programming and a tad into the DOSBox platform- an x86 MS-DOS emulator.
 Author: Noam Cohen
 
-The game itself isn't too complicated- you have the main menu/welcome screen, the help screen, the game screen, and finally the game over screen. Regarding the game itself- all you need to do is catch a BMP photo of a cloud with your BMP photo plane using the keyboard arrows for 10 times. After that you get the game over screen, that leads you to the main menu once again.
+The project is a game. The game itself isn't too complicated- you have the main menu/welcome screen, the help screen, the game screen, and finally the game over screen. Regarding the game itself- all you need to do is catch a BMP photo of a cloud with your BMP photo plane using the keyboard arrows for 10 times. After that you get the game over screen, that leads you to the main menu once again.
 This project was created in order to learn BMP images printing, screen creations, keyboard input responses, and simple algorithms in Assembly for the game itself.
 
 Hopefully the source code provides a good point of reference in the future for someone or an inspiration to something great!
@@ -22,3 +22,8 @@ The basic DOSBox commands that you should know:
 2. Run "main" after running "mount c c:\mainFolder" & "c:" if you want to run the main.exe executable.
 
 I have added all the "main" files- .asm, .obj, .map, and .exe, but you only need main.exe and all the BMP photos in order to launch the game. You can also peek at main.asm for the source code.
+
+Also, you can get DosBox from their site:
+  https://www.dosbox.com/
+And if you want TASM in order to compile ASM files yourself, you can get it here (not affiliated with me, I just found it on Google Drive. It is the only one I found with 0 security vendors marking it as malicious on VT):
+  https://drive.google.com/file/d/19oUWlHJLEFPkPJ95xiZ1V9OgOdywMtuE/view
